@@ -15,6 +15,7 @@
 
 // Import commands.js and defaults.js
 // using ES2015 syntax:
+import "./assertions"
 import "./commands"
 import "./defaults"
 
